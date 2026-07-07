@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iliasandronos-star.github.io//demo-taverna/sitemap-index.xml
